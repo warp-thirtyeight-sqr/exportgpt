@@ -1,7 +1,7 @@
-# AI Chat Downloader
+# ExportGPT
 
 ## Description
-AI Chat Downloader is a browser extension that allows users to download conversations from ChatGPT, Claude, and Poe. This extension is designed to work locally within your browser, ensuring your data remains private and secure. It is compatible with both Google Chrome and Mozilla Firefox.
+ExportGPT is a browser extension that allows users to download conversations from ChatGPT, Claude, and Poe. This extension is designed to work locally within your browser, ensuring your data remains private and secure. It is compatible with both Google Chrome and Mozilla Firefox.
 
 ## Features
 - Download conversations from ChatGPT, Claude, and Poe
@@ -12,7 +12,7 @@ AI Chat Downloader is a browser extension that allows users to download conversa
 ## Installation
 
 ### For Google Chrome:
-1. Download the extension files from the [GitHub repository](https://github.com/fmuk/aichatdl).
+1. Download the extension files from the [GitHub repository](https://github.com/atheric-ai/exportgpt).
 2. Open Google Chrome and navigate to `chrome://extensions/`.
 3. Enable "Developer mode" by toggling the switch in the top right corner.
 4. Click on "Load unpacked" in the top left corner.
@@ -20,7 +20,7 @@ AI Chat Downloader is a browser extension that allows users to download conversa
 6. The extension should now appear in your list of installed extensions and in the Chrome toolbar.
 
 ### For Mozilla Firefox:
-1. Download the extension files from the [GitHub repository](https://github.com/fmuk/aichatdl).
+1. Download the extension files from the [GitHub repository](https://github.com/atheric-ai/exportgpt).
 2. Open Mozilla Firefox and navigate to `about:debugging#/runtime/this-firefox`.
 3. Click on "Load Temporary Add-on" in the top right corner.
 4. Navigate to the folder containing the extension files and select the manifest.json file.
@@ -28,12 +28,12 @@ AI Chat Downloader is a browser extension that allows users to download conversa
 
 ## Usage
 1. Navigate to ChatGPT, Claude, or Poe in your browser.
-2. Click on the AI Chat Downloader extension icon in the toolbar.
+2. Click on the ExportGPT extension icon in the toolbar.
 3. Select your preferred format (Markdown, HTML, or Plaintext).
 4. Click "Extract Conversation" to save the current chat.
 
 ## Privacy
-AI Chat Downloader prioritizes your privacy:
+ExportGPT prioritizes your privacy:
 - The extension has no external internet access.
 - All data processing occurs locally in your browser.
 - No data is sent to or stored on external servers.
@@ -42,7 +42,7 @@ AI Chat Downloader prioritizes your privacy:
 If you encounter any bugs or issues, please report them on the [GitHub Issues page](https://github.com/fmuk/aichatdl/issues) of the project repository.
 
 ## Contributing
-Contributions to the AI Chat Downloader project are welcome! Please feel free to submit pull requests or suggest improvements through the GitHub repository.
+Contributions to the ExportGPT project are welcome! Please feel free to submit pull requests or suggest improvements through the GitHub repository.
 
 ## Future Updates
 While there are no guaranteed future features planned, updates may be released to address any bugs or compatibility issues that arise. Keep an eye on the GitHub repository for any announcements or new releases.
